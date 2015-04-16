@@ -913,8 +913,7 @@
 /* Header */
 
 	#header {
-		/*background: #4acaa8;*/
-		background: #505050;
+		background: #4acaa8;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -1008,8 +1007,7 @@
 
 					#header > nav ul li a.active {
 						background: #fff;
-						/*color: #4acaa8 !important;*/
-						color: #505050 !important;
+						color: #4acaa8 !important;
 					}
 
 				#header > nav ul li:first-child {
